@@ -1,0 +1,22 @@
+{
+    "marco": {
+        "score": 16,
+        "year": 1
+    },
+    "mattia": {
+        "score": 13,
+        "year": 2
+    },
+    "jacopo": {
+        "score": 6,
+        "year": 3
+    },
+    "giuseppe": {
+        "score": 18,
+        "year": 4
+    },
+    "matteo": {
+        "score": 5,
+        "year": 5
+    }
+}
